@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  color: #333;
+}
+
+.App-header, .App-footer {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 1em;
+}
+
+article {
+  margin-bottom: 2em;
+}
+
+img {
+  max-width: 100%;
+}
